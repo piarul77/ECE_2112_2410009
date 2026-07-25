@@ -53,7 +53,7 @@ _**Heaven’s Light is Our Guide**_
 
 | Assignment No. | Title | Link |
 | :---: | :---: | :---: | 
-| lab 1 | Digital Techniques | https://github.com/piarul77/ECE_2112_2410009/blob/main/lab1.md |
+| lab 1 | Digital Techniques | (lab 1) https://github.com/piarul77/ECE_2112_2410009/blob/main/lab1.md |
 
 
 
