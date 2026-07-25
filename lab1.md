@@ -25,7 +25,7 @@
 ```
 ## **Output :**
 <p align="center">
-<img width="480" height="250" src="">
+<img width="480" height="250" src="https://github.com/piarul77/ECE_2112_2410009/blob/main/img/Screenshot%202026-07-25%20180419.png">
 
 ## **Experiment No: 03**
 ## **Experiment Name:Implementation of full adder
