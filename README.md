@@ -51,8 +51,8 @@ _**Heaven’s Light is Our Guide**_
   
 ## INDEX:
 
-| Assignment No. | Title | Link | CodeForce |
-| :---: | :---: | :---: |  :---: |
+| Assignment No. | Title | Link |
+| :---: | :---: | :---: | 
 
 
 
